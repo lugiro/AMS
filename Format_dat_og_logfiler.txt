@@ -1,0 +1,13 @@
+Format for .dat og .log filer
+
+ams_activ_power_pos_2sec.dat
+ams_activ_power_pos_2sec.log
+20210126224050   2652 W+
+
+ams_meter_value_10sec.dat
+ams_meter_value_10sec.log
+20210126224050   2767 W+      0 W-      0 VAr+    126 VAr-  11917 mA   2341 Vx10
+
+ams_meter_energy_1hour.dat
+ams_meter_energy_1hour.log
+20210126220010   30494839 Wh+          0 Wh-      13025 VArh+    2480735 VArh-
