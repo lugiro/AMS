@@ -1,7 +1,7 @@
 Telegram for Aktiv effekt hvert 2. sekund
 
 00 7e      Start byte
-01 a0 27   Telegram ID aktiv effekt 2. sekund
+01 a0 27   Brukt som "Telegram ID" for aktiv effekt hvert 2. sekund
 03 01 
 04 02 
 05 01 
@@ -18,7 +18,7 @@ Telegram for Aktiv effekt hvert 2. sekund
 16 00 
 17 09 	
 18 0c 
-19 07 e5  2021  år
+19 07 e5  2021  år (2 bytes)
 21 01        1  mnd
 22 0f       15  dato
 23 05        5  dag
@@ -32,7 +32,7 @@ Telegram for Aktiv effekt hvert 2. sekund
 31 02 
 32 01 
 33 06 
-34 00 00 1a 4d  4 bytes – Aktiv effekt, W
+34 00 00 1a 4d    (4 bytes – Aktiv effekt, W)
 38 3c
 39 37
-40 7e     Sop byte
+40 7e     Stopp byte
