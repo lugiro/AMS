@@ -1,5 +1,7 @@
 ## AMS
 ### Lesing av AMS-data fra HAN-plugg<br>
+Løsningen her er beregnet for for KAIFA 1-fase-måler, type MA105H2E<br>
+
 Filen **AMS-tilkobling-HAN.jpg** viser tilkobling fra HAN-plugg via MBUS-TTL converter til Raspberry Pi 3B pluss.<br>
 Filen **amsGetMeterData.py** inneholder Python-program som leser telegram fra AMS-måler.<br>
 
