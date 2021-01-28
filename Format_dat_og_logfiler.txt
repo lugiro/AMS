@@ -1,6 +1,5 @@
 Format for .dat og .log filer
 
-ams_activ_power_pos_2sec.dat
 ams_activ_power_pos_2sec.log
 20210126224050   2652 W+
 
