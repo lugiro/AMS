@@ -15,7 +15,7 @@ ams_meter_energy_1hour.log<br>
 Data fra disse filen kan benyttes videre til visning på web etc.<br>
 Filen **AMSMeterData.png** viser hvilke data som er tatt ut fra AMS-måler.<br>
 
-Filen **Telegram_2sekund.txt** viser telgramdata på hex-format for aktiv effekt oversendt hvert 2. sekund.<br>
+Filen **AMS_telegram_V3.pdf** viser telgramdata på hex-format for 3 telegram, 2 sek, 10 sek og 1 time.<br>
 
 For å lese data fra GPIO15 (RXD) pinne 10 på Rasbberry må denne settes opp på riktig måte. <br>
 Se https://github.com/HWal/RPi_HAN_Receive_Web_Relay_Output for mer info.
