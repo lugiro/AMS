@@ -22,5 +22,5 @@ Se https://github.com/HWal/RPi_HAN_Receive_Web_Relay_Output for mer info.<br>
 
 Programmet **amsGetMeterData.py** utfører ikke noen form for datasjekk.<br>
 Målerdata hentes direkte fra hvor de er plassert i byte-rekkeflgen.<br>
-Programmet må tilpasses for å benyttes for andre typer KAIFA-målere og eventuelt andre fabrikat.
-
+Programmet må tilpasses for å benyttes for andre typer KAIFA-målere og eventuelt andre fabrikat.<br>
+Programmet har også en begrensning på 255 bytes for telegramlengde.
