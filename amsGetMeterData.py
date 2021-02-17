@@ -266,3 +266,4 @@ while 1:
                      (time_stamp_energy, \
                      activ_energy_pos,"Wh+",activ_energy_neg,"Wh-",reactiv_energy_pos,"VArh+",reactiv_energy_neg,"VArh-"))
 				file_ams.close()
+				
