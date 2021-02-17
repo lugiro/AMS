@@ -265,4 +265,4 @@ while 1:
                 file_ams.writelines("%14s %10s %3s %10s %3s %10s %5s %10s %5s\n" % \
                      (time_stamp_energy, \
                      activ_energy_pos,"Wh+",activ_energy_neg,"Wh-",reactiv_energy_pos,"VArh+",reactiv_energy_neg,"VArh-"))
-					 file_ams.close()
+				file_ams.close()
