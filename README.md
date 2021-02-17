@@ -22,7 +22,7 @@ Filen **AMS_telegram_Vx.pdf** viser telegramdata på hex-format for 3 telegramme
 For å lese data fra GPIO15 (RXD) pinne 10 på Raspberry Pi må denne settes opp på riktig måte. <br>
 Se https://github.com/HWal/RPi_HAN_Receive_Web_Relay_Output for mer info.<br>
 
-Programmet **amsGetMeterData.py** utfører ikke noen form for datasjekk.<br>
+Programmet **amsGetMeterData_Vx.py** utfører ikke noen form for datasjekk.<br>
 Målerdata hentes direkte fra hvor de er plassert i byte-rekkefølgen.<br>
 Programmet må tilpasses for å benyttes for andre typer KAIFA-målere og eventuelt andre fabrikat.<br>
 Programmet har også en begrensning på 255 bytes for telegramlengde.<br>
