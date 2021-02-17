@@ -3,7 +3,7 @@
 Løsningen her er beregnet for KAIFA 1-fase-måler, type MA105H2E<br>
 
 Filen **AMS-tilkobling-HAN.jpg** viser tilkobling fra HAN-plugg via MBUS-TTL-converter til Raspberry Pi 3B pluss.<br>
-Filen **amsGetMeterData.py** inneholder Python-program som leser telegram fra AMS-måler.<br>
+Filen **amsGetMeterData_Vx.py** inneholder Python-program som leser telegram fra AMS-måler.<br>
 
 Programmet lagrer data på følgende filer:<br>
 ams_activ_power_pos_2sec.dat<br>
