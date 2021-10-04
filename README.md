@@ -30,3 +30,5 @@ Programmet har også en begrensning på 255 bytes for telegramlengde.<br>
 Youtube video:<br>
 https://youtu.be/juPgcLEIaek<br>
 
+OBS!
+Programvaren brukes på eget ansvar og utgiver tar ikke noe ansvar for eventuell skade som kan skje ved bruk av programvaren.
